@@ -1,6 +1,6 @@
 # **Dr. Mrs.Nimmagadda Padmaja,**  **_B.E, M. Tech, Ph.D_**
 
-Professor, Dept. of ECE, Sree Vidyanikethan Engg. College (Autonomous)
+Professor, Dept. of ECE, Sree Vidyanikethan Engg. College (Autonomous)<br />
 *Email*: padmaja202@gmail.com  
 *Cell*: 9963070126
 
@@ -84,19 +84,19 @@ Professor, Dept. of ECE, Sree Vidyanikethan Engg. College (Autonomous)
 
 # **_Journal and Conference Publications : 53 , Book Chapters :06_**
 
-Scopus and H-Index Publications-27
-Google Scholar Citations: 37
+Scopus and H-Index Publications-27<br />
+Google Scholar Citations: 37<br />
 h-index :3, i10-index:2
 
-International Journals: 31 **(SCI:01, Scopus:10, UGC:08)**
-International Conference Publications:17 (**IEEE-07, Springer-2, ACM-1, Elsevier-4)**
-National Journals: 01
+International Journals: 31 **(SCI:01, Scopus:10, UGC:08)** <br />
+International Conference Publications:17 (**IEEE-07, Springer-2, ACM-1, Elsevier-4)** <br />
+National Journals: 01 <br />
 National Conference Publications: 05
 
-Workshops/ Conferences Organized: 20
+Workshops/ Conferences Organized: 20 <br />
 Workshops/Conferences/Seminars Attended: 81
 
-Number of B.Tech Projects Guided : 36
+Number of B.Tech Projects Guided : 36 <br />
 Number. of M.Tech Projects Guided : 16
 
 # **_Book Chapters Published: 06_**
